@@ -28,5 +28,5 @@ jobs:
       - name: Upload APK
         uses: actions/upload-artifact@v4
         with:
-          name: KPSS-APK
+          name: Footballer-Guessing-Arena-APK
           path: '**/build/outputs/apk/**/*.apk'
