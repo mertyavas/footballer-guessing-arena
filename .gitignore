@@ -19,3 +19,5 @@ debug.keystore
 Footballer-Guessing-Arena-APK/
 # Release signing key
 *.jks
+# Encoded signing key
+keystore-base64.txt
