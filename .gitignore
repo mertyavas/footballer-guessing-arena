@@ -16,7 +16,10 @@
 local.properties
 .env
 debug.keystore
+# APK artifacts
 Footballer-Guessing-Arena-APK/
+Footballer-Guessing-Arena-Release/
+*.apk
 # Release signing key
 *.jks
 # Encoded signing key
